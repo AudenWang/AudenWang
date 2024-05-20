@@ -5,4 +5,7 @@
 #### AP Computer Science Principles Student
 #### *2023-2024*
 * Learned coding fundamentals used across multiple languages
-* Well versed in Microsoft MakeCode Arcade
+* Well-versed in Microsoft MakeCode Arcade
+### 🛠 Technology Stack 
+* MakeCodeArcade 
+* Wikipedia
