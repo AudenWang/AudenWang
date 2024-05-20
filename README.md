@@ -4,5 +4,5 @@
 ### Experience
 #### AP Computer Science Principles Student
 #### *2023-2024*
-*Learned coding fundamentals used across multiple languages
-*Well versed in Microsoft MakeCode Arcade
+* Learned coding fundamentals used across multiple languages
+* Well versed in Microsoft MakeCode Arcade
