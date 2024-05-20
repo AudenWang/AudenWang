@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### I'm Aiden R, a student at Grand Blanc High School.
+#### You can reach me at [my email address](aidentrabideau70@gbstu.org)
+#### I can use MakeCode Arcade :)
 <!--
 **AudenWang/AudenWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
